@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "saharacoders-88c70",
+  "private_key_id": "adba549f86b1f28a68e530ce0fc357cdb440fb86",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC6rVzLthKpPSN2\nqL+o1MOggSckBB6J34rG9qHq7cPMFiEngYSBZCha4ZG93UWHSbZIEi3q1KwfZCFl\n0FLY2NxAa3if4UBtDzTrk4ci1unBA6lfMhhs/lpqhPIpmQO9L91yJFOirextoVDj\nnihPhUQlb5y2A5hzbGO/BBuIuhfiNWEGBOwlQwseu2Uuluw1Qe5RPSimaCrR3Peo\n/LBRsDt3JgOWDDWrJqI9gfRopVChg/ncI1bFt7OZo+BLgRh7fIfAV9M+Kj72o8zc\nT7wQm3hS8bTFKLyuqrNFlueZM2a31FpydimTb/5kpQ/R1KYIMrhl/JUlnVxMzDhV\nycEPZ7qJAgMBAAECggEAFaJeypW0xEamHqvViRrzUF13bEif7hQ+m0AHqYLZpK7R\n3n1iSQk9q16l9c44LxgfVxXoRWVVTKQIQio/rQrg568CK+vpJq/S+b7qCThv9GMD\nai6+Pu9xX2k96WKRg4eRueyKLCR3mIhP/WPIbILXesvcal8F+CZ7yYOP2gDQdhzN\nOjbRwFzcqb7sUvLCcahJn+IoRSqMLYj6gvqA4NdIlDU6j8iHbqdPymaF1cWCScgD\nt6nM5X7v/YUyn0RNV0HZ50arJKjQrxnium7sJgoGyEZpB+PxeYp1Yu6vw2YyVbvQ\nY4K+xJt0FaqTbl3DnXwPAkdT0PypJGjpIYhKvhYGIwKBgQDdgJeAlxzacqGYt7zK\nbHnChWRqgORRHP1qNuDgSmuT/T7ZPQfpvHUefhuyt0JEu1zG2vYHMeGWIPBzSMwa\nkbvUsURt4Lkgq2BVHndCCDKDZrGEK3+qNziYE08PdYDywcRg7FQ3vWEWZ3CnoONf\nKNx+HqRzvWCQHELhglJllWbmWwKBgQDXwEahuD/T+PU+GJA2qBGCu/Y4Anehuts5\nsyvYL04WwAL4F5owiOfG6QVeDrqMyQbgJP6H8LCXCEZk/WUyGrK2ORIROvN/Ptim\nKQ11jpHE4GQe+Skf2pfXl5jsGI2X9J6IwxLRe9T84e5ymNETzMr5FhJ2nZ3kw6YL\nNCdKoivf6wKBgGwynU7eAeUfK5qa3eiPVmbTm/p+XYjVvV/90JkfIS+X+/RH4K6n\nNRqhBUymQgOq9iXY3WckUYpxKqNVwwWTfInn0YJOzH+N1y+dAypJMMuJBVuHmAQA\nl2+JtwvZHRT328Jwjq7vnhZAjwIDEC3ymsosk65Jqnqao3zemPswIKSTAoGAPp8S\nYTInZJEoLYPXp+WUX4vK5Wrh6lFf/BljKnZghf3pXrULDfdOvs83vZsszlwy4LAc\nKLzVpKDEPd/GlYpmQLnD4rhnoJFPNLtJqstcx/YRWWQcaaB63hqkSjK+NlLMCQoF\n1kPJCDVTjnOIi+SvLSkY5tDM2W9oLGxQ0zrK3U0CgYEAvc3PClg2YbaGfdwq2VQ5\nB7fAava4ZmxtuDa74IQD/utbsfcDQrfJgDl7+C76qXD4CfCbwsJAkwAoDst2MVF3\nQ9lV0/LsojJDTX2ZP3vJ+PZ5skWlr+H6yHnh7rPDI0VkKFMBzVpFLTTs6klQJPDa\noHPRFalcJ7SS9GS8SQ58XGo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-kpzhx@saharacoders-88c70.iam.gserviceaccount.com",
+  "client_id": "111671317521997704311",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-kpzhx%40saharacoders-88c70.iam.gserviceaccount.com"
+}
